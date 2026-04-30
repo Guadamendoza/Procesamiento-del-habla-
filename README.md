@@ -17,6 +17,24 @@ El trabajo se desarrolla en cuatro etapas:
 ---
 
 ## Integrantes
+| Nombre | GitHub |
+|--------|--------|
+| Florencia Andrada | Flor3ncia-Andr4d4 |
+| Federico Córdoba | fede-cordoba-Ispc |
+| Guadalupe Mendoza | Guadamendoza |
+| Noelia Soto | NoeliaSoto|
+
+
+---
+
+## Tecnologías Utilizadas
+
+- Python 3
+- NumPy / SciPy
+- Librosa
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
 
 
 
@@ -24,4 +42,4 @@ El trabajo se desarrolla en cuatro etapas:
 
 ## Ejecución
 
-Abrir el notebook en Google Colab y ejecutar las celdas en orden.
+El notebook puede ejecutarse de principio a fin sin errores en Google Colab. La semilla `np.random.seed(42)` está configurada en la celda inicial para garantizar resultados consistentes entre ejecuciones.
